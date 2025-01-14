@@ -1,4 +1,4 @@
-# Hi there, I'm HANABLI 👋
+# Hi there, I'm Hatem Nabli 👋
 
 Welcome to my GitHub profile! I'm a specialized developer with a strong background in C/C++ and experience with Python. I am currently expanding my knowledge in deep learning and computer vision using OpenCV. Here’s a bit more about my professional journey and interests:
 
