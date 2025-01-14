@@ -32,9 +32,9 @@ Welcome to my GitHub profile! I'm a specialized developer with a strong backgrou
 
 ## 📂 Top Repositories
 
-- [Repository 1](https://github.com/HANABLI/Falcata): Falcata is just a name I picked for this solution, which is a sort of container for some libraries that I plan to develop towards making a web server framework from scratch.
-- [Repository 2](https://github.com/HANABLI/virtualworld_sdc): This is a virtual world map im building using javascrip.
-- [Repository 3](https://github.com/HANABLI/QtProjects): This is a container of several Qt adapters and stuffs im building to resolve some QtWidgets and QtApplications issues.
+- [Falcata](https://github.com/HANABLI/Falcata): Falcata is just a name I picked for this solution, which is a sort of container for some libraries that I plan to develop towards making a web server framework from scratch.
+- [virtualworld_sdc](https://github.com/HANABLI/virtualworld_sdc): This is a virtual world map im building using javascrip.
+- [QtProjects](https://github.com/HANABLI/QtProjects): This is a container of several Qt adapters and stuffs im building to resolve some QtWidgets and QtApplications issues.
 
 
 Thanks for visiting my profile! Feel free to reach out if you'd like to connect or collaborate on a project. 😊
