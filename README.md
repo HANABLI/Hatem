@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a specialized developer with a strong backgrou
 [![trophy](https://github-profile-trophy.vercel.app/?username=HANABLI&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📊 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HANABLI&hide_progress=true)
 
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hatem-nabli-b3930314b/)
