@@ -11,7 +11,14 @@ Welcome to my GitHub profile! I'm a specialized developer with a strong backgrou
 - ☕ Designed Java RESTful web services using JAX-RS and Jersey.
 - 💻 Interested in the conception of graphical user interfaces (GUIs) using Qt/QML.
 - 🔧 Worked as a backend developer with experience in network applications development.
-- 📫 How to reach me: [nablihatem3@gmail.com]
+- 📫 How to reach me: nablihatem3@gmail.com
+
+## 📚 Certifications
+[![Certificat Fundamentals of Computer Vision & Image Processing in C++](https://img.shields.io/badge/Certificat-Fundamentals_of_Computer_Vision_&_Image_Processing_in_OpenCV_and_C++-blue)](https://courses.opencv.org/certificates/b7d2cfa1d6804d13a55103e90e086933) 
+[![Certificat Mastering OpenCV with Python](https://img.shields.io/badge/Certificat-Mastering_OpenCV_with_Python-blue)](https://courses.opencv.org/certificates/6efaf9396eef41edbddf3a38d082aba6) 
+[![Certificat Python](https://img.shields.io/badge/Certificat-Python-blue)](https://courses.opencv.org/certificates/e7cef4bf7cd64a9f851670266fc1a2b1) 
+[![Certificat Qt_5_Design_Patterns-blue](https://img.shields.io/badge/Certificat-Qt_5_Design_Patterns-blue)](https://www.udemy.com/certificate/UC-45cb7c6c-1b4f-4f5f-beba-2d087e60795a/) 
+[![Certificat Mastering Microcontroller and Embedded Driver Development-blue](https://img.shields.io/badge/Certificat-Mastering_Microcontroller_and_Embedded_Driver_Development-blue)](https://www.udemy.com/certificate/UC-1411d66b-ca6c-4c26-8cfa-3c0667cd614d/)
 
 ## 🛠️ Technologies & Tools
 - Programming Languages: ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
